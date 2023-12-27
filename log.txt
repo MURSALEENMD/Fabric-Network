@@ -1,0 +1,1 @@
+./deployChaincode.sh: line 97: peer: command not found
